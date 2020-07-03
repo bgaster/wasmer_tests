@@ -1,0 +1,1 @@
+BUFFER_SIZE=128 cargo bench --bench benchmark -- --sample-size 689 --plotting-backend gnuplot
